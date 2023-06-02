@@ -8,16 +8,16 @@ Our journey begins with a comprehensive collection of tweets from our pre-determ
 ### Twitter Topic Analysis
 The raw data from Twitter is then processed through a rudimentary analysis of the word frequency in the collected tweets. This allows us to determine the most frequently discussed topics in our dataset.
 
-### CVS Modulator
+### [CVS Modulator]([url](https://github.com/dyordyor/dyordyor/blob/main/CSV%20moderator%20-%20dyordyor.ipynb))
 Common words such as articles, basic verbs, and prepositions often have high mention counts. To filter out relevant crypto-specific topics, we employ a GPT-based AI tool.
 
-### DYORDYOR Twitter Word Filter
+### [DYORDYOR Twitter Word Filter]([url](https://github.com/dyordyor/dyordyor/blob/main/DYORDYOR%20Twitter%20Word%20Filter.py))
 This tool excludes irrelevant words and retains crypto-related proper nouns from the dataset.
 
 ## Tweet Grouping and AI Analysis
 The top discussion topics are then sorted into sections within a Google Sheets file by a separate script. The sections are subsequently analyzed by a GPT AI system to generate summaries, sentiment analyses, and pertinent quotes for each topic.
 
-### DYORDYOR AI Topic Summarization
+### [DYORDYOR AI Topic Summarization]([url](https://github.com/dyordyor/dyordyor/blob/main/DYORDYOR%20AI%20Topic%20summarization%20and%20Sentiment%20Analysis.py))
 The tool that helps in summarizing, sentiment analysis, and collecting valuable quotes for each topic.
 
 ### Data Presentation
