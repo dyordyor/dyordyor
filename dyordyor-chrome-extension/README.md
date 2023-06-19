@@ -1,6 +1,6 @@
-# dyordyor Chrome Extension
+# dyordyor - Chrome Extension
 
-dyordyor is a Google Chrome extension that enhances your browsing experience by displaying tweets related to a web page from official accounts and famous influencers. This README provides information about the extension, its features, and instructions on how to install it.
+dyordyor has a Google Chrome extension that enhances your browsing experience by displaying tweets related to a web page from official accounts and famous influencers. This README provides information about the extension, its features, and instructions on how to install it.
 
 ## Features
 
