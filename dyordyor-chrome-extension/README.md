@@ -17,7 +17,7 @@ Here are some screenshots of the dyordyor Chrome extension in action:
 
 ## Installation
 
-To install the dyordyor Chrome extension, please follow the instructions below:
+To install the dyordyor Chrome extension, please download **dyordyor-chrome-extension** folder and follow the instructions below:
 
 1. Open Google Chrome and navigate to the settings menu by clicking on the three dots in the top-right corner of the browser window.
 2. From the dropdown menu, select "More Tools" and then click on "Extensions".
