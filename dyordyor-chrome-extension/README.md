@@ -5,7 +5,7 @@ dyordyor is a Google Chrome extension that enhances your browsing experience by 
 ## Features
 
 - Displays tweets related to a web page from official accounts and influencers in real-time.
-- Enhances your browsing experience on polkadot.network by providing up-to-date information and insights.
+- Enhances your browsing experience by providing up-to-date information and insights.
 - Easy installation process.
 
 ## Screenshots
