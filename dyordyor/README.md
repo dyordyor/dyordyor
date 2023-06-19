@@ -12,12 +12,12 @@ dyordyor is a Google Chrome extension that enhances your browsing experience on 
 
 Here are some screenshots of the dyordyor Chrome extension in action:
 
-![image](https://github.com/dyordyor/dyordyor/assets/135133993/7d1fd7e4-bebb-46fd-8475-71b9e2141bdb)
+![image](https://github.com/dyordyor/dyordyor/assets/135133993/9dfbc1fa-db80-4ecb-aea1-3fdbb2cc507b)
 ![image](https://github.com/dyordyor/dyordyor/assets/135133993/a8904e58-f360-4290-8e54-bd4156b4d9a6)
 
 ## Installation
 
-To install the dyordyor Chrome extension, please follow the instructions below:
+To install the dyordyor Chrome extension, please  follow the instructions below:
 
 1. Open Google Chrome and navigate to the settings menu by clicking on the three dots in the top-right corner of the browser window.
 2. From the dropdown menu, select "More Tools" and then click on "Extensions".
