@@ -13,8 +13,7 @@ dyordyor is a Google Chrome extension that enhances your browsing experience on 
 Here are some screenshots of the dyordyor Chrome extension in action:
 
 ![image](https://github.com/dyordyor/dyordyor/assets/135133993/7d1fd7e4-bebb-46fd-8475-71b9e2141bdb)
-![zyro-image](https://github.com/dyordyor/dyordyor/assets/135133993/d11bd811-07b9-4c3c-abc3-f06fb1a0bb53)
-
+![image](https://github.com/dyordyor/dyordyor/assets/135133993/a8904e58-f360-4290-8e54-bd4156b4d9a6)
 
 ## Installation
 
